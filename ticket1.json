@@ -2,6 +2,7 @@
   "name": "音乐节门票",
   "event": "夏日音乐节",
   "date": "2025-07-01 19:30",
+  "price":1,
   "image": "https://yourcdn.com/ticket123.png",
   "description": "这是一张可用于 2025 夏日音乐节的门票。"
 }
