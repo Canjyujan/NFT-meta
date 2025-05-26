@@ -1,19 +1,7 @@
 {
-  "name": "Jay Chou Live 2025",
-  "description": "门票：周杰伦2025北京演唱会",
-  "image": "https://i.imgur.com/abc123xyz.png",
-  "attributes": [
-    {
-      "trait_type": "Date",
-      "value": "2025-08-12"
-    },
-    {
-      "trait_type": "Location",
-      "value": "Beijing National Stadium"
-    },
-    {
-      "trait_type": "Price",
-      "value": "0.08 ETH"
-    }
-  ]
+  "event": "演唱会",
+  "date": "2025-06-12T18:30",
+  "price": 20,
+  "image": "https://example.com/ticket-image.jpg",
+  "description": "五月天2025年世界巡演"
 }
