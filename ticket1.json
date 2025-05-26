@@ -1,7 +1,8 @@
 {
-  "event": "演唱会",
-  "date": "2025-06-12T18:30",
-  "price": 20,
-  "image": "https://example.com/ticket-image.jpg",
-  "description": "五月天2025年世界巡演"
+  "name": "音乐节门票",
+  "event": "夏日音乐节",
+  "date": "2025-07-01 19:30",
+  "price": 0.5,
+  "image": "https://yourcdn.com/ticket123.png",
+  "description": "这是一张可用于 2025 夏日音乐节的门票。"
 }
